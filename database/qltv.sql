@@ -180,7 +180,7 @@ BEGIN
 END
 GO
 	-----------------
-	CREATE FUNCTION [dbo].[AUTO_CS]()--
+CREATE FUNCTION [dbo].[AUTO_CS]()--
 RETURNS VARCHAR(6)
 AS
 BEGIN
